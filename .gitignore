@@ -1,0 +1,22 @@
+# Code::Blocks build output
+bin/
+obj/
+*.o
+*.exe
+
+# Code::Blocks per-user and generated files
+*.layout
+*.depend
+*.objdeps
+
+# Local data: contains personal details and admin credentials
+users.txt
+users.txt.tmp
+admin.txt
+admin.txt.tmp
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
