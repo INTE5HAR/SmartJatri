@@ -1,3 +1,7 @@
+//made by Inteshar Alam
+//date > 22-May-2025
+//GitHub: github.com/INTE5HAR
+
 #include <exception>
 #include <iostream>
 
