@@ -27,7 +27,6 @@ Originally developed in C for CSE 207 (Data Structures) in May 2025. This reposi
 - [Design and Implementation](#design-and-implementation)
 - [Known Limitations](#known-limitations)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
 
 ---
 
