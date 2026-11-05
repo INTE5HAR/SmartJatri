@@ -307,6 +307,3 @@ This repository contains the C++ rewrite, with an object-oriented design and imp
 
 ---
 
-## License
-
-No license has been selected yet. Until a license is added, the default copyright rules apply. Add a `LICENSE` file to explicitly define the permissions and conditions for using, modifying, and distributing this project.
